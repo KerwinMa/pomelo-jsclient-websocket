@@ -11,5 +11,5 @@
   "scripts": [
     "lib/pomelo-client.js"
   ],
-  "repo": "https://github.com/pomelonode/pomelo-jsclient-websocket"
+  "repo": "https://github.com/ShortTailLab/pomelo-jsclient-websocket"
 }
