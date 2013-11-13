@@ -6,6 +6,11 @@
     "jsclient",
     "websocket"
   ],
+  "dependencies": {
+	"component/emitter":"master",
+    "ShortTailLab/pomelo-protocol": "master",
+    "pomelonode/pomelo-protobuf": "*"
+  },
   "version": "0.0.1",
   "main": "lib/pomelo-client.js",
   "scripts": [
