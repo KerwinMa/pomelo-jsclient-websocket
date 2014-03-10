@@ -9,7 +9,7 @@
   "dependencies": {
 	"component/emitter":"master",
     "ShortTailLab/pomelo-protocol": "master",
-    "pomelonode/pomelo-decodeIO-protobuf": "*"
+    "ShortTailLab/base64-js": "master"
   },
   "version": "0.0.1",
   "main": "lib/pomelo-client.js",
